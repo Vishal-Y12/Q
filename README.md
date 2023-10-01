@@ -2,6 +2,7 @@
  Developed an interactive quiz game
 with a timer, displaying questions
 and multiple-choice options.
+<br>
  Implemented JavaScript to handle
 the logic of the quiz game, including
 question generation, user input
